@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/bash -x
 
 read -p "enter a number between 1 and 7: " number
 
